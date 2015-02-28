@@ -48,3 +48,7 @@ coverage.xml
 # Backup files
 *~
 *.swp
+/.project
+/.pydevproject
+/.gitignore
+/.settings/
