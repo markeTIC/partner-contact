@@ -18,11 +18,12 @@
 
 {
     "name": "Contact gender",
-    "version": "1.0",
+    "version": "8.0.1.0.0",
     "category": "Customer Relationship Management",
-    "author": "Odoo Community Association (OCA), Grupo ESOC",
+    "website": "https://grupoesoc.es",
+    "author": "Grupo ESOC Ingeniería de Servicios, "
+              "Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "website": "https://odoo-community.org/",
     "installable": True,
     "application": False,
     "summary": "Add gender field to contacts",
